@@ -1,0 +1,5 @@
+# Ignore the following files and directories
+node_modules/
+dist/
+.DS_Store
+.env
